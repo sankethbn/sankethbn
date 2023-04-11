@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif">
 
 - 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/sankethbn/Portfolio-)
-- 
+
 - 📫 How to reach me **sankethsankibn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
