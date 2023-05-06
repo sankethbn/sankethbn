@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sankethsankibn@gmail.com**
 
-- 📫 Resume [https://drive.google.com/file/d/1kEKlddDLvGVC2K45lnxHZL8JKYlOkg8c/view?usp=share_link]
+- 📫 Resume [https://drive.google.com/file/d/1EYMzCKZ2ukcqUYmZNm9Ilt3pKwE32gd7/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 
