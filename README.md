@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/sankethbn/Portfolio-)
 
-- 📫 How to reach me **sankethsankibn@gmail.com**
+- 📫 How to reach me **basavasankethbn@gmail.com**
 
 - 📫 Resume [https://drive.google.com/file/d/1DY1gngtcqmi66FsYwZ_nc8Mc4bMcFQUO/view?usp=sharing]
 
