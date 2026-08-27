@@ -27,3 +27,9 @@
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
+<h3 align="left">Certifications:</h3>
+
+- **Microsoft Certified: Business Analysis Fundamentals** — Microsoft (2025)
+- **Master Product Management by Actually Building a Product** — Udemy (2026)
+- **MySQL for Data Analytics** — Alex The Analyst (2026)
