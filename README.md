@@ -1,22 +1,29 @@
-![MasterHead](https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif)
 <h1 align="center">Hi 👋, I'm Basava Sanketh B N</h1>
-<h3 align="center">Business Analyst | Product Analyst | Associate PM — turning data into decisions, and decisions into products</h3>
-<img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif">
+<h3 align="center">Business Analyst | Product Analyst | Associate PM — I turn messy data into decisions, and decisions into products</h3>
 
-- 🚀 At Inxite Out, I built and shipped **RIA AI**, a conversational analytics product that let non-technical teams query YouTube data in plain English — full PRD and case study: [RIA AI Product Case Study](https://github.com/sankethbn/ria-ai-product-case-study)
+- 🚀 At Inxite Out I built and shipped **RIA AI** — a tool that let our analysts just *ask* YouTube data questions in plain English instead of digging through raw comments by hand. Wrote up the full story (PRD, what actually shipped, what I'd still fix) here: [RIA AI Product Case Study](https://github.com/sankethbn/ria-ai-product-case-study)
 
-- 👨‍💻 All of my projects are available at [Data Science Portfolio](https://github.com/sankethbn/Portfolio-)
+- 👨‍💻 The rest of my analytics and BI work lives in [my portfolio repo](https://github.com/sankethbn/Portfolio) — dashboards, case studies, the works
 
-- 📫 How to reach me **basavasankethbn@gmail.com**
+- 📄 Resume, pick whichever matches the role you're hiring for: [Business Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_BusinessAnalyst.pdf) · [Associate PM](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_AssociatePM.pdf) · [Product Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_ProductAnalyst.pdf)
 
-- 📄 Resume: [View/Download PDF](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume.pdf)
+- 📫 Reach me at **basavasankethbn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/basava sanketh b n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basava sanketh b n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/basava-sanketh-bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basava sanketh b n" height="30" width="40" /></a>
 <a href="https://twitter.com/bnsanketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bnsanketh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools I work in:</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
