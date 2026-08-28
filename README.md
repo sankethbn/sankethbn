@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Basava Sanketh B N</h1>
-<h3 align="center">Business Analyst | Product Analyst | Associate PM — I turn messy data into decisions, and decisions into products</h3>
+<h3 align="center">Business Analyst | Product Analyst | Associate PM: I turn messy data into decisions, and decisions into products</h3>
 
-- 🚀 At Inxite Out I built and shipped **RIA AI** — a tool that let our analysts just *ask* YouTube data questions in plain English instead of digging through raw comments by hand. Wrote up the full story (PRD, what actually shipped, what I'd still fix) here: [RIA AI Product Case Study](https://github.com/sankethbn/ria-ai-product-case-study)
+- 🚀 At Inxite Out I built and shipped **RIA AI**, a tool that let our analysts just *ask* YouTube data questions in plain English instead of digging through raw comments by hand. Full case study here, with the PRD, BRD, FRD, gap analysis, and UAT test plan: [RIA AI Product Case Study](https://github.com/sankethbn/ria-ai-product-case-study)
 
-- 👨‍💻 The rest of my analytics and BI work lives in [my portfolio repo](https://github.com/sankethbn/Portfolio) — dashboards, case studies, the works
+- 🧮 SQL work (aggregation, window functions, CTEs) against a real dataset, with actual query output: [SQL for Business Analysis](https://github.com/sankethbn/SQL-for-Business-Analysis)
+
+- 👨‍💻 The rest of my analytics and BI work lives in [my portfolio repo](https://github.com/sankethbn/Portfolio): dashboards, case studies, the works
 
 - 📄 Resume, pick whichever matches the role you're hiring for: [Business Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_BusinessAnalyst.pdf) · [Associate PM](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_AssociatePM.pdf) · [Product Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_ProductAnalyst.pdf)
 
@@ -30,6 +32,6 @@
 
 <h3 align="left">Certifications:</h3>
 
-- **Microsoft Certified: Business Analysis Fundamentals** — Microsoft (2025)
-- **Master Product Management by Actually Building a Product** — Udemy (2026)
-- **MySQL for Data Analytics** — Alex The Analyst (2026)
+- **Microsoft Certified: Business Analysis Fundamentals**, Microsoft (2025)
+- **Master Product Management by Actually Building a Product**, Udemy (2026)
+- **MySQL for Data Analytics**, Alex The Analyst (2026)
