@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basava Sanketh B N</h1>
 <h3 align="center">Business Analyst | Product Analyst | Associate PM: I turn messy data into decisions, and decisions into products</h3>
 
-- 💼 At **Logic Lumin Software** I joined a live UK HR and payroll platform mid-project as the first and only Business Analyst: gap analysis, BRD and FRD, 32 user stories across 8 sprints and 45 UAT test cases that caught 12 defects before release. Case study with the client anonymised: [UK Payroll BA Case Study](https://github.com/sankethbn/UK-Payroll-BA-Case-Study)
+- 💼 At **Logic Lumin Software** I joined a live UK HR and payroll platform mid-project as the first and only Business Analyst: gap analysis, BRD and FRD, 30+ user stories and 40+ UAT test cases that caught around a dozen defects before release. Case study with the client anonymised: [UK Payroll BA Case Study](https://github.com/sankethbn/UK-Payroll-BA-Case-Study)
 
 - 🚀 At Inxite Out I built and shipped **RIA AI**, a tool that let our analysts just *ask* YouTube data questions in plain English instead of digging through raw comments by hand. Full case study here, with the PRD, BRD, FRD, gap analysis, and UAT test plan: [RIA AI Product Case Study](https://github.com/sankethbn/ria-ai-product-case-study)
 
