@@ -9,7 +9,7 @@
 
 - 👨‍💻 The rest of my analytics and BI work lives in [my portfolio repo](https://github.com/sankethbn/Portfolio): dashboards, case studies, the works
 
-- 📄 Resume, pick whichever matches the role you're hiring for: [Business Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_BusinessAnalyst.pdf) · [Associate PM](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_AssociatePM.pdf) · [Product Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_ProductAnalyst.pdf)
+- 📄 Resume, pick whichever matches the role you're hiring for: [Business Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Business_Analyst_Resume.pdf) · [Associate PM](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_AssociatePM.pdf) · [Product Analyst](https://github.com/sankethbn/sankethbn/blob/main/Basava_Sanketh_BN_Resume_ProductAnalyst.pdf)
 
 - 📫 Reach me at **basavasankethbn@gmail.com**
 
